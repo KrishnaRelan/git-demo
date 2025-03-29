@@ -1,2 +1,2 @@
 # git-demo
-rhis a demo to learn github
+this a demo to learn github
